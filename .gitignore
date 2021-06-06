@@ -1,0 +1,6 @@
+*.txt
+*.bin
+*.exe
+*.json
+.cph
+.vscode
